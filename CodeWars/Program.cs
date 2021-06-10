@@ -6,7 +6,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(ReverseWords.Reverse("This is an example!"));
         }
     }
 }
