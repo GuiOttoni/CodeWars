@@ -19,7 +19,7 @@ namespace CodeWars
                 x += " ";
             }
 
-            return x.TrimEnd;
+            return x.TrimEnd();
         }
     }
 }
